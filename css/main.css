@@ -12,6 +12,12 @@ img{
 	width: 90%;
 }
 
+h1{
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	color: #000;
+	font-size: 2rem;
+}
+
 h2{
 	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
 	color: #CCC;
